@@ -1,0 +1,13 @@
+Devops practice
+
+Basic comands
+
+git clone url
+git add .
+git commit -m "message"
+git push -u origin
+
+git checkout -b branch name
+
+git pull
+git fetch
